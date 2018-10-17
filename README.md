@@ -15,9 +15,14 @@ A node creator can change the UI module.
 In other words, you can earn money from bloblo by advertising on the screen of bloblo.
 Also, by expanding the message display, it is possible to construct a node with uniqueness.
 
+
+## Specification
+
+[Wiki](https://github.com/izwx/bloblo/wiki)
+
 ## Licence
 
-[MIT License](https://github.com/izwx/bloblo/blob/master/LICENSE.txt)
+The source code is licensed under GPL v3. License is available [here](https://github.com/izwx/bloblo/blob/master/LICENSE.txt).
 
 ## Author
 
