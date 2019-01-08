@@ -78,7 +78,7 @@ jp:
   search_bloblo: BloBlo サーチ
   vue:
     front:
-      post: 役職
+      post: 投稿
       following: "フォローする"
       noti_update_info: "あなたのアカウントは更新されました。"
       error_update: "あなたの更新でエラーが発生しました。"
